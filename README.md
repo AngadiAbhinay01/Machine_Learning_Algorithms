@@ -9,7 +9,6 @@ This repository contains implementations of various machine learning algorithms 
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
