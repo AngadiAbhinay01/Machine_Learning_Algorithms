@@ -1,5 +1,4 @@
 # Machine_Learning_Algorithms
-# Machine Learning Algorithms
 
 This repository contains implementations of various machine learning algorithms in Python. Each algorithm is implemented from scratch to provide a better understanding of its underlying principles and inner workings. These algorithms can be used for various tasks, such as classification, regression, clustering, and more.
 
